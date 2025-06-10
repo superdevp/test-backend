@@ -20,8 +20,8 @@ app.get('/', (req: Request, res: Response) => {
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.use('/auth', auth);
 app.use('/user', user);
+app.use('/auth', auth);
 
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
