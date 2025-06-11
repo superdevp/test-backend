@@ -41,3 +41,10 @@ npm start
 npm run dev
 ```
 The server will run on `http://localhost:5000` (or the port you specify in `.env`).
+
+## Result
+
+You can check the API response result [here](https://www.loom.com/share/a618cfd0ca0940e3802368ccf8ff2d72?sid=682031dc-9b04-4b88-a262-424173efec55).
+
+If the above link is not working, you can follow the link below.
+https://www.loom.com/share/a618cfd0ca0940e3802368ccf8ff2d72?sid=682031dc-9b04-4b88-a262-424173efec55
